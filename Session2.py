@@ -20,3 +20,8 @@ def func3 (a):
 def func4 (a, b):
     return "chiao world"
 
+def func5 (a, b):
+    return a / b
+
+
+
